@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+}
+.container{
+    width: 75vw;
+}
+.container1{
+    height: 25vh;
+}
+.container2{
+    height: 75vh;
+}
+.container2-2{
+    height: 100vh;
+    width: 100vw;
+}
